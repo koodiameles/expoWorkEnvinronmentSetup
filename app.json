@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "development_environment_test",
+    "slug": "development_environment_test",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
