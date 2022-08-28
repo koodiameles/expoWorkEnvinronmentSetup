@@ -6,7 +6,7 @@ export default function App() {
   return (
     <View style={styles.container}>
       <Text style={{color: "white"}}>Good day sir/madam!</Text>
-      <Text style={{color: "white"}}>I'm a mobile application and here you serve you</Text>
+      <Text style={{color: "white"}}>I'm a mobile application and are here to serve you</Text>
       <StatusBar style="auto" />
     </View>
   );
